@@ -88,6 +88,8 @@
     - [Practical Go Lessons](https://www.practical-go-lessons.com/) (English book for beginners)
     - [Golang Tutorial](https://gobyexample.com/) (English book for beginners)
 ## DevOps Overview
+  - Interactive Learning Platform:
+    - [LabEx DevOps Learning Path](https://labex.io/learn/devops) - Comprehensive hands-on DevOps labs covering Linux, Docker, Kubernetes, Python, automation, and cloud technologies with 6000+ interactive exercises and real-world projects
   - Videos:
     - [DevOps Overview -  Created by the DevOps Hobbies Team](https://www.youtube.com/watch?v=M8ztRU94XNg&list=PLYrn63eEqAzbtAEHtmbhxxrwCCNYrRUDv) (Persian Language) (Free)
 ## Step 0: Basic requirements
